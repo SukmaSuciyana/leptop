@@ -1,0 +1,100 @@
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\SukmaSuciyana_Laptop.exe.config
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\SukmaSuciyana_Laptop.exe
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\SukmaSuciyana_Laptop.pdb
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.csproj.AssemblyReference.cache
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.csproj.SuggestedBindingRedirects.cache
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.Form1.resources
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.Properties.Resources.resources
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.csproj.GenerateResource.cache
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.exe
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.pdb
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.LaptopForm.resources
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Npgsql.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Buffers.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Collections.Immutable.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Memory.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Numerics.Vectors.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Text.Encodings.Web.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Text.Json.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Threading.Channels.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.ValueTuple.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Npgsql.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Buffers.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Collections.Immutable.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Memory.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Numerics.Vectors.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Text.Encodings.Web.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Text.Json.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Threading.Channels.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.ValueTuple.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.csproj.CopyComplete
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.Context.ContextLaptop.resources
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.TransaksiForm.resources
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.MenuLaptop.resources
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.DetailTransaksiForm.resources
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Newtonsoft.Json.dll
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Newtonsoft.Json.xml
+D:\KULIAH\Semester 2\PBO\Project\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.OpenWeather.resources
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\SukmaSuciyana_Laptop.exe.config
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\SukmaSuciyana_Laptop.exe
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\SukmaSuciyana_Laptop.pdb
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Npgsql.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Buffers.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Collections.Immutable.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Memory.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Text.Json.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Threading.Channels.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.ValueTuple.dll
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\Npgsql.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Buffers.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Collections.Immutable.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Memory.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Text.Json.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Threading.Channels.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\bin\Debug\System.ValueTuple.xml
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.Context.ContextLaptop.resources
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.DetailTransaksiForm.resources
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.Form1.resources
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.LaptopForm.resources
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.MenuLaptop.resources
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.OpenWeather.resources
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.Properties.Resources.resources
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.TransaksiForm.resources
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.csproj.CopyComplete
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.exe
+C:\Users\asus\Downloads\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\SukmaSuciyana_Laptop\obj\Debug\SukmaSuciyana_Laptop.pdb
